@@ -33,6 +33,9 @@ DTW is also used in online signature recognition to compare the dynamic properti
 
 DTW’s flexibility in handling different time scales and lengths makes it a powerful tool in various domains beyond speech recognition.
 
+### How DTW works between 2 stocks : 
+DTW_imagine.png
+
 
 ## Installation
 To run this project, you need to have Python and Jupyter Notebook installed. You can install the required libraries using the following command:
@@ -61,6 +64,7 @@ The project outputs include:
 - Similarity scores between different stock price time series using DTW.
 - Grouping of companies based on stock price similarities using KNN.
 - Visualizations of stock price trends and analysis results.
+SimilarStockOutput.png
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
